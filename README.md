@@ -1,2 +1,1 @@
-# PRODIGY_CS_02
-Simple image encryption tool using pixel manipulation.
+**Simple image encryption tool using pixel manipulation.**
